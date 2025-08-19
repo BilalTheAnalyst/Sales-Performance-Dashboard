@@ -109,3 +109,6 @@ From the dashboard, business leaders were able to see:
 ✅ Faster decisions → Managers could track sales, profit, and growth in real time.
 ✅ Better strategy → Helped identify profitable products and underperforming stores.
 ✅ Improved visibility → Provided a single source of truth for sales performance.
+
+ScreenShot
+https://github.com/BilalTheAnalyst/Sales-Performance-Dashboard/blob/main/SalesReport.png
